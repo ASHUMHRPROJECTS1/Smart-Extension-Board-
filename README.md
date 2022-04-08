@@ -53,7 +53,7 @@ Smart Extension Board:
 
 
 
-**Step 1: Get Your PCB Ready!**
+**Step 1: Get Your [PCB](https://jlcpcb.com/IAT)[ ](https://jlcpcb.com/IAT) Ready!**
 
 **Talking About Electronics**
 
